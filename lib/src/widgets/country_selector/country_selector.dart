@@ -109,8 +109,7 @@ class CountrySelectorState extends State<CountrySelector> {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        const SizedBox(height: 15),
-        
+        const SizedBox(height: 7),
         SizedBox(
           height: 70,
           width: double.infinity,
